@@ -32,7 +32,10 @@ Escribe dentro del fichero el nombre y apellidos de los componentes
 
 ### Gestionar un repo
 
-### Issues
+###
+Issues
+
+Editado por Pablo Alapont
 
 
 [[https://github.com/StoneyJackson/github-workflow-activity]]
